@@ -1,0 +1,27 @@
+/* styles.css */
+
+.root {
+    -fx-background-color: yellow;
+}
+
+.label {
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+}
+
+.text-field {
+    -fx-font-size: 15px;
+}
+
+.table-view {
+    -fx-pref-height: 200px;
+}
+
+.button {
+    -fx-font-size: 15px;
+    -fx-min-width: 100px;
+}
+
+.button-bar {
+    -fx-spacing: 10;
+}
